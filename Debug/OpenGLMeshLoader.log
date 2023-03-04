@@ -1,0 +1,15 @@
+﻿  OpenGLMeshLoader19.cpp
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\TextureBuilder.h(27,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\TextureBuilder.h(28,52): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(167,29): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(167,54): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(167,72): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(168,29): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(168,54): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(168,72): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(169,30): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(169,55): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(169,73): warning C4838: conversion from 'GLdouble' to 'GLfloat' requires a narrowing conversion
+C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\OpenGLMeshLoader19.cpp(684,20): warning C4018: '<': signed/unsigned mismatch
+GLTexture.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  OpenGLMeshLoader.vcxproj -> C:\Users\miche\Desktop\OpenGLMeshLoader19 - sky\Debug\OpenGLMeshLoader19.exe
